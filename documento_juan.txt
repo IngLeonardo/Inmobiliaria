@@ -1,0 +1,2 @@
+Este block de notas se realizo con fines academicos para mostar el uso de 
+de codigo y control de versiones de Git.
